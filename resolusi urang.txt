@@ -1,0 +1,6 @@
+Resolusi
+- konsisten perdalam pemerograman
+- VB
+- HTML
+- PHP
+- REACTJS
