@@ -4,3 +4,4 @@ Resolusi
 - HTML
 - PHP
 - REACTJS
+- VIDEO EDITING
